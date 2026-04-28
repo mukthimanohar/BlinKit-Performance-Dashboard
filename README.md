@@ -49,5 +49,6 @@ This project presents an interactive **Power BI dashboard** built to analyze Bli
 - Discovered customer buying trends  
 - Improved understanding of business performance  
 
-<img width="742" height="779" alt="image" src="https://github.com/user-attachments/assets/86655477-1e81-4db4-8ee5-98deb131f673" />
+<img width="1227" height="683" alt="image" src="https://github.com/user-attachments/assets/9a259743-b2b4-416d-987d-534ae7e9c556" />
+
 
